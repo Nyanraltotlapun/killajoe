@@ -10,3 +10,5 @@
 
 ### Support me
 [![Buy Me a Beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=joekamprad&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/joekamprad)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=killajoe&show_icons=true&theme=radical)
