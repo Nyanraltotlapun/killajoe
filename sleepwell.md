@@ -1,10 +1,10 @@
 # ☀️ System shutdown initiated... 💤
 
 Status report:
-- ☕️ Caffeine levels: DEPLETED
-- 🔋 Battery: 12% and dropping fast
-- 🧠 Brain: 47 open tabs, force-closing all
-- 🛏 Bed: located and locked in
+1. ☕️ Caffeine levels: DEPLETED
+2. 🔋 Battery: 12% and dropping fast
+3. 🧠 Brain: 47 open tabs, force-closing all
+4. 🛏 Bed: located and locked in
 
 > Running final shutdown sequence...
 > ```bash
